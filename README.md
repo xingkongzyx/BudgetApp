@@ -1,6 +1,15 @@
-# BudgeAapp
+# Budge-Aapp
 
-A budget web page using HTML/CSS and Javascript. It can allow users to enter the income and expense, then calculate the budget and expense percentage automatically. 
 
-The number displayed on the UI has been well-formatted, only two decimal digits will be reserved.
-Using Anonymous closure to accomplish modern pattern as the design pattern of this javascript app. 
+## General info
+This is a budgeting app mainly using javascript to calculate a budget based on a list of income and expenses.
+
+Implemented this project based on The Complete JavaScript Course on Udemy, the CSS and HTML is provided as starter code, the project focus is on writing the DOM event handlers and JavaScript using modern pattern and IIFEs
+
+## Live Demo
+https://xingkongzyx.github.io/BudgetApp/
+
+## Front-end and Back-end Technologies
+* HTML5(Front-end)
+* CSS3(Back-end)
+* JavaScript
