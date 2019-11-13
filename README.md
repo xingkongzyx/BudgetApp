@@ -1,4 +1,4 @@
-# Budge-Aapp
+# Budge-App
 
 
 ## General info
