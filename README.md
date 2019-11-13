@@ -1,4 +1,4 @@
-# Budge-App
+# Budget-App
 
 
 ## General info
