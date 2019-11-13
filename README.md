@@ -13,3 +13,6 @@ https://xingkongzyx.github.io/BudgetApp/
 * HTML5(Front-end)
 * CSS3(Back-end)
 * JavaScript
+
+
+![Snipaste_2019-11-13_10-29-12](https://user-images.githubusercontent.com/36606851/68797512-f8680a00-0611-11ea-8ae4-6c83512560f8.png)
